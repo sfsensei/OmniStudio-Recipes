@@ -9,5 +9,6 @@ Tourist place of OmniStudio datapacks. These datapacks can be easly imported int
 -   [Learn about OmniStudio on 0to1Code Channel](https://www.youtube.com/watch?v=qfXn0l2FnnY&list=PLZHR2zv1HIDez6HsLnAfJkGDy716Ea6V7)
 
 -   [Salesforce Watch](https://sf.watch)
+-   [SF Sensei](https://sfsensei.com)
 
-#OmniStudio #Vlocity #0to1Code
+#OmniStudio #Vlocity 
