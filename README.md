@@ -7,9 +7,7 @@ Tourist place of OmniStudio datapacks. These datapacks can be easly imported int
 -   What is Data Packs: In omnistudio, almost every toolset (DataRaptor, OmniScript and others) can be exported and imported easly. These are downloaded as JSON file.
 
 -   [Learn about OmniStudio on 0to1Code Channel](https://www.youtube.com/watch?v=qfXn0l2FnnY&list=PLZHR2zv1HIDez6HsLnAfJkGDy716Ea6V7)
--   [OmniStudio Tutorials]([https://www.youtube.com/watch?v=qfXn0l2FnnY&list=PLZHR2zv1HIDez6HsLnAfJkGDy716Ea6V7](https://sf.watch/?s=omnistudio)
--   [SF Connect]([https://sfconnect.com)
--   [SF Watch]([https://sf.watch)
--   [SF Sensei]([https://sfsensei.com)
+
+-   [Salesforce Watch](https://sf.watch)
 
 #OmniStudio #Vlocity #0to1Code
